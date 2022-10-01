@@ -1,0 +1,3 @@
+Simple shell daemon that will watch a specified pftable(s) and if any
+addresses are added/removed will take appropiate action adding or
+removing the addresses in bgpd.
