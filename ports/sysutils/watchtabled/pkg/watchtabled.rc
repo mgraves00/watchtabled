@@ -1,7 +1,8 @@
 #!/bin/ksh
 #
+# $OpenBSD$
 
-daemon="/usr/local/sbin/watchtabled"
+daemon="${PREFIX}/usr/local/sbin/watchtabled"
 
 . /etc/rc.d/rc.subr
 
