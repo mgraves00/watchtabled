@@ -2,7 +2,7 @@
 #
 # $OpenBSD$
 
-daemon="${PREFIX}/usr/local/sbin/watchtabled"
+daemon="${PREFIX}/sbin/watchtabled"
 
 . /etc/rc.d/rc.subr
 
